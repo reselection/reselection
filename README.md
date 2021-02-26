@@ -8,7 +8,9 @@
 
 ##    Skills:
 <img align="left" alt="Terminal" width="26px" src=".github/images/1python.png" />
-
+<img align="left" alt="Terminal" width="26px" src=".github/images/vim.png" />
+<img align="left" alt="Terminal" width="26px" src=".github/images/vscode.png" />
+<img align="left" alt="Terminal" width="26px" src=".github/images/sql.png" />
 <img align="left" alt="Terminal" width="26px" src=".github/images/terminal.png" />
 <img align="left" alt="Terminal" width="26px" src=".github/images/github.png" />
 <img align="left" alt="Terminal" width="26px" src=".github/images/git.png" />
