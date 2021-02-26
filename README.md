@@ -1,12 +1,12 @@
-### Hello there, I'm Daniël Verlinden, aka Res 👋✨⚡📫💬
+### Hello there, I'm Daniël Verlinden, aka Res 👋✨📫💬
 
 ## 🔭 Things im currently working on and learning: 
     - Creating a nice portfolio of projects
     - Mastering Python
     - C Programming
     - Basic Algorithms
-
-##    Skills:
+<br />
+##  ⚡ Skills:
 <img align="left" alt="Terminal" width="26px" src=".github/images/1python.png" />
 <img align="left" alt="Terminal" width="26px" src=".github/images/vim.png" />
 <img align="left" alt="Terminal" width="26px" src=".github/images/vscode.png" />
@@ -18,6 +18,7 @@
 
 
 ## 🤔 Things i want to learn:
+    - How to code in group projects
     - Exploit development
     - Reverse engineering
     - Assembly
@@ -26,4 +27,6 @@
  	  - Golang
 	  - Javacript
 	  - C++
-
+<br />
+## 💬 Contact:
+	
