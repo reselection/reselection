@@ -8,6 +8,10 @@
 
 ##    Skills:
 <img align="left" alt="Terminal" width="26px" src=".github/images/terminal.png" />
+<img align="left" alt="Terminal" width="26px" src=".github/images/github.png" />
+<img align="left" alt="Terminal" width="26px" src=".github/images/git.png" />
+
+
 
 ## 🤔 Things i want to learn:
     - Exploit development
