@@ -6,6 +6,9 @@
     - C Programming
     - Basic Algorithms
 
+##    Skills:
+    - <img align="left" alt="Terminal" width="26px" src=".github/images/terminal.png" />
+
 ## 🤔 Things i want to learn:
     - Exploit development
     - Reverse engineering
