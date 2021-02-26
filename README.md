@@ -5,7 +5,7 @@
     - Mastering Python
     - C Programming
     - Basic Algorithms
-<br />
+
 ##  ⚡ Skills:
 <img align="left" alt="Terminal" width="26px" src=".github/images/1python.png" />
 <img align="left" alt="Terminal" width="26px" src=".github/images/vim.png" />
