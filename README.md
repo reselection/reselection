@@ -26,7 +26,7 @@
     - ## Programming languages:
  	  - Golang
 	  - Javacript
-	  - C++
+	  - C/C++
 <br />
 ## 💬 Contact:
 	
