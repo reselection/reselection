@@ -1,4 +1,4 @@
-### Hello there, I'm Daniël Verlinden, aka Res 👋✨📫💬
+### Hello there, I'm Daniël Verlinden, aka Res 👋
 
 ## 🔭 Things im currently working on and learning: 
     - Creating a nice portfolio of projects
@@ -28,5 +28,5 @@
 	  - Javacript
 	  - C/C++
 <br />
-## 💬 Contact:
+## 💬📫 Contact:
 	
