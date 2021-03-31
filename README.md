@@ -1,4 +1,4 @@
-### Hello there, I'm Daniël Verlinden, aka Res 👋
+### Hello there, I'm Res 👋
 
 ## 🔭 Things im currently working on and learning: 
     - Creating a nice portfolio of projects
