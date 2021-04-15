@@ -3,7 +3,7 @@
 ## 🔭 Things im currently working on and learning: 
     - Creating a nice portfolio of projects
     - Mastering Python
-    - C Programming
+    - C/C++ Programming
     - Basic Algorithms
 
 ##  ⚡ Skills:
@@ -17,16 +17,16 @@
 <br />
 
 
-## 🤔 Things i want to learn:
-    - How to code in group projects
+## 🤔 To learn/do list:
     - Exploit development
     - Reverse engineering
-    - Assembly
-    - How hardware works exactly at lower levels 
+    - Binary exploitation
+    - Arduino/Raspberry pi hardware projects
     - ## Programming languages:
  	  - Golang
 	  - Javacript
 	  - C/C++
+	  - Assembly
 <br />
 ## 💬📫 Contact:
 	
