@@ -4,8 +4,7 @@
     - Creating a nice portfolio of projects
     - Mastering Python
     - C/C++ Programming
-    - Basic Algorithms
-
+    - Comptia Security+ cert
 ##  ⚡ Skills:
 <img align="left" alt="Terminal" width="26px" src=".github/images/1python.png" />
 <img align="left" alt="Terminal" width="26px" src=".github/images/vim.png" />
