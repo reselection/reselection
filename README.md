@@ -1,20 +1,9 @@
 ### Hello there, I'm Res 👋
 
 ## 🔭 Things im currently working on and learning: 
-    - Creating a nice portfolio of projects
+    - Personal projects
     - Mastering Python
-    - C/C++ Programming
     - Comptia Security+ cert
-##  ⚡ Skills:
-<img align="left" alt="Terminal" width="26px" src=".github/images/1python.png" />
-<img align="left" alt="Terminal" width="26px" src=".github/images/vim.png" />
-<img align="left" alt="Terminal" width="26px" src=".github/images/vscode.png" />
-<img align="left" alt="Terminal" width="26px" src=".github/images/sql.png" />
-<img align="left" alt="Terminal" width="26px" src=".github/images/terminal.png" />
-<img align="left" alt="Terminal" width="26px" src=".github/images/github.png" />
-<img align="left" alt="Terminal" width="26px" src=".github/images/git.png" />
-<br />
-
 
 ## 🤔 To learn/do list:
     - Exploit development
@@ -25,7 +14,9 @@
  	  - Golang
 	  - Javacript
 	  - C/C++
+	  - Java
 	  - Assembly
 <br />
 ## 💬📫 Contact:
+https://www.linkedin.com/in/dani%C3%ABl-verlinden-2b361a190/
 	
