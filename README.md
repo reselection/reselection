@@ -3,7 +3,8 @@
 ## 🔭 Things im currently working on and learning: 
     - Personal projects
     - Mastering Python
-    - Comptia Security+ cert
+    - Comptia Network+ cert
+    - LPIC-1 
 
 ## 🤔 To learn/do list:
     - Exploit development
