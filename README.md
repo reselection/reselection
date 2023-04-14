@@ -7,6 +7,7 @@
 
 ## 🤔 To learn/do list:
  - C/C++
+ - Software Development
 <br />
 ## 💬📫 Contact:
 https://www.linkedin.com/in/danielverlinden/
