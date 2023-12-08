@@ -1,13 +1,12 @@
-### Hello there, I'm Res 👋
+### Hello there, I'm Daniel. 👋
 
 ## 🔭 Things im currently working on and learning: 
-    - Personal projects
-    - Comptia A+, Network+, Security+
-    - ITILv4
+    - Powershell
 
 ## 🤔 To learn/do list:
- - C/C++
- - Software Development
+ - Powershell 
+ - Python projects
+ - AZ-104
 <br />
 ## 💬📫 Contact:
 https://www.linkedin.com/in/danielverlinden/
