@@ -9,7 +9,7 @@
  - AZ-104
 <br />
 ## 💬📫 Contact:
-https://www.linkedin.com/in/danielverlinden/
+
 
 
 
