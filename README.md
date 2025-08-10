@@ -2,11 +2,13 @@
 
 ## 🔭 Things im currently working on and learning: 
     - Powershell
+    - Bash
 
 ## 🤔 To learn/do list:
  - Powershell 
  - Python projects
  - AZ-104
+ - LFCS
 <br />
 ## 💬📫 Contact:
 
